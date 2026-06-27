@@ -16,11 +16,11 @@ Légères · autonomes · universelles (Apple Silicon + Intel) · mises à jour 
 | --- | --- |
 | 🧲 **[Torrent DL Pro Plus 3000](https://github.com/sandrophoto/torrentdl)** | Téléchargeur de torrents — magnet & `.torrent`, moteur aria2 embarqué. [Site ↗](https://sandrophoto.github.io/torrentdl/) |
 | 🎙️ **[BlaBlaSpy](https://github.com/sandrophoto/blablaspy)** | Enregistre et transcrit tes réunions, entièrement en local. |
-| 🎬 **[Video DL Pro Plus 2000](https://github.com/sandrophoto/videodlproplus3000)** | Télécharge YouTube en vidéo ou MP3, converti en H.264. |
+| 🎬 **[Video DL Pro Plus 3000](https://github.com/sandrophoto/videodlproplus3000)** | Télécharge YouTube en vidéo ou MP3, converti en H.264. [Site ↗](https://sandrophoto.github.io/videodlproplus3000/) |
 | ⏻ **[SMART TIMER Pro Plus 3000](https://github.com/sandrophoto/smart-timer)** | Attend une condition, puis éteint ou endort le Mac. |
 | 🎚️ **[FCPX vers Pro Tools](https://github.com/sandrophoto/fcpx-protools)** | Convertit un FCPXML en AAF pour Pro Tools. |
-| ⏲️ **[DroppTimer](https://github.com/sandrophoto/dropptimer)** | Un minuteur dans la barre de menu, réglé d'un geste. |
-| 💬 **[Palabre Pro Plus 3000](https://github.com/sandrophoto/palabre)** | App macOS, avec mises à jour automatiques. |
+| ⏲️ **[DroppTimer](https://github.com/sandrophoto/dropptimer)** | Un minuteur dans la barre de menu, réglé d'un geste. [Site ↗](https://sandrophoto.github.io/dropptimer/) |
+| 💬 **[Palabre Pro Plus 3000](https://github.com/sandrophoto/palabre)** | App macOS, avec mises à jour automatiques. [Site ↗](https://sandrophoto.github.io/palabre/) |
 
 ---
 
