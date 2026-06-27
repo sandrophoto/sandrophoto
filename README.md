@@ -1,6 +1,7 @@
 <div align="center">
 ## co-owner of
-# 🅂  STUPIDS STUDIO
+
+  # 🅂  STUPIDS STUDIO
 
 ### Des apps macOS qui font une chose — *très bien.*
 
