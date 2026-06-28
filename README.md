@@ -23,7 +23,7 @@ Légères · autonomes · universelles (Apple Silicon + Intel) · mises à jour 
 | 💬 | **Palabre Pro Plus 3000** | App macOS, avec mises à jour automatiques | [Site](https://sandrophoto.github.io/palabre/) · [Code](https://github.com/sandrophoto/palabre) |
 | 🎙️ | **BlaBlaSpy** | Enregistre et transcrit tes réunions, en local | [Code](https://github.com/sandrophoto/blablaspy) |
 | ⏻ | **SMART TIMER Pro Plus 3000** | Attend une condition, puis éteint ou endort le Mac | [Code](https://github.com/sandrophoto/smart-timer) |
-| 🎚️ | **FCPX vers Pro Tools** | Convertit un FCPXML en AAF pour Pro Tools | [Code](https://github.com/sandrophoto/fcpx-protools) |
+| 🎚️ | **FCPX vers Pro Tools** | Convertit un FCPXML en AAF pour Pro Tools | [Site](https://sandrophoto.github.io/fcpx-protools/) · [Code](https://github.com/sandrophoto/fcpx-protools) |
 
 ---
 
