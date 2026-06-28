@@ -21,7 +21,7 @@ Légères · autonomes · universelles (Apple Silicon + Intel) · mises à jour 
 | 🎬 | **Video DL Pro Plus 3000** | YouTube en vidéo ou MP3, converti en H.264 | [Site](https://sandrophoto.github.io/videodlproplus3000/) · [Code](https://github.com/sandrophoto/videodlproplus3000) |
 | ⏲️ | **PullTheTimer Pro Plus 3000** | Le minuteur de la barre de menu qu'on règle en le tirant | [Site](https://sandrophoto.github.io/pullthetimer-pro-plus-3000/) · [Code](https://github.com/sandrophoto/pullthetimer-pro-plus-3000) |
 | 💬 | **Palabre Pro Plus 3000** | App macOS, avec mises à jour automatiques | [Site](https://sandrophoto.github.io/palabre/) · [Code](https://github.com/sandrophoto/palabre) |
-| 🎙️ | **BlaBlaSpy** | Enregistre et transcrit tes réunions, en local | [Code](https://github.com/sandrophoto/blablaspy) |
+| 🎙️ | **BlaBlaSpy Pro Plus 3000** | Enregistre, transcrit et résume tes réunions Teams/Meet/Zoom, en local | [Site](https://sandrophoto.github.io/blablaspy/) · [Code](https://github.com/sandrophoto/blablaspy) |
 | ⏻ | **SMART TIMER Pro Plus 3000** | Attend une condition, puis éteint ou endort le Mac | [Code](https://github.com/sandrophoto/smart-timer) |
 | 🎚️ | **FCPX vers Pro Tools** | Convertit un FCPXML en AAF pour Pro Tools | [Site](https://sandrophoto.github.io/fcpx-protools/) · [Code](https://github.com/sandrophoto/fcpx-protools) |
 
