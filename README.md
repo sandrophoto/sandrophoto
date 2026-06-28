@@ -19,7 +19,7 @@ Légères · autonomes · universelles (Apple Silicon + Intel) · mises à jour 
 | :-: | --- | --- | --- |
 | 🧲 | **Torrent DL Pro Plus 3000** | Torrents — magnet & `.torrent`, moteur aria2 embarqué | [Site](https://sandrophoto.github.io/torrentdl/) · [Code](https://github.com/sandrophoto/torrentdl) |
 | 🎬 | **Video DL Pro Plus 3000** | YouTube en vidéo ou MP3, converti en H.264 | [Site](https://sandrophoto.github.io/videodlproplus3000/) · [Code](https://github.com/sandrophoto/videodlproplus3000) |
-| ⏲️ | **DroppTimer** | Un minuteur dans la barre de menu, réglé d'un geste | [Site](https://sandrophoto.github.io/dropptimer/) · [Code](https://github.com/sandrophoto/dropptimer) |
+| ⏲️ | **PullTheTimer Pro Plus 3000** | Le minuteur de la barre de menu qu'on règle en le tirant | [Site](https://sandrophoto.github.io/pullthetimer-pro-plus-3000/) · [Code](https://github.com/sandrophoto/pullthetimer-pro-plus-3000) |
 | 💬 | **Palabre Pro Plus 3000** | App macOS, avec mises à jour automatiques | [Site](https://sandrophoto.github.io/palabre/) · [Code](https://github.com/sandrophoto/palabre) |
 | 🎙️ | **BlaBlaSpy** | Enregistre et transcrit tes réunions, en local | [Code](https://github.com/sandrophoto/blablaspy) |
 | ⏻ | **SMART TIMER Pro Plus 3000** | Attend une condition, puis éteint ou endort le Mac | [Code](https://github.com/sandrophoto/smart-timer) |
